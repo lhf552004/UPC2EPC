@@ -1,0 +1,6 @@
+CSV/
+XML/
+*.manifest
+*.7z
+*.vshost.exe
+obj/
